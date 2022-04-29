@@ -1,0 +1,31 @@
+
+body{
+  background: #141618;
+  color: white;
+}
+
+.information h1{
+  font-weight: bold;
+}
+
+.information span{
+  font-weight: 300;
+}
+
+.information_data{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.personaje{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 30px;
+  background: #53575A;
+}
+
+.personajeList{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}

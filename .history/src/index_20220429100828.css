@@ -18,7 +18,6 @@ html{
 .information_img{
   width: 100%;
   height: 400px;
-  object-fit: cover;
 }
 
 .information span{

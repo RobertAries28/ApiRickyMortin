@@ -1,0 +1,17 @@
+
+body{
+  background: #141618;
+}
+
+.information h1{
+  font-weight: bold;
+}
+
+.information span{
+  font-weight: 300;
+}
+
+.information_data{
+  display: flex;
+  justify-content: space-evenly;
+}
